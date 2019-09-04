@@ -1,0 +1,22 @@
+StatusCode        : 200
+StatusDescription : OK
+Content           : <?xml version="1.0" encoding="utf-8"?>
+                    <Response>
+                      <Message>Hello World</Message>
+                    </Response>
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    X-AspNetMvc-Version: 5.2
+                    Expect-CT: max-age=604800, 
+                    report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                    CF-RAY: 51103f56f935bd4e-PHL
+                    Con...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [X-AspNetMvc-Version, 5.2], [Expect-CT, max-age=604800, 
+                    report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"], [CF-RAY, 
+                    51103f56f935bd4e-PHL]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 97
